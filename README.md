@@ -9,6 +9,7 @@ target_link_libraries(exampletarget
     libspacepacket
 )
 ```
+See [coconut-fsw](https://github.com/ASU-SDSL/coconut-fsw) for a real-world usage example 
 
 # Credit
 Decoder inspired by https://github.com/altillimity/libccsds/blob/master/src/ccsds.cpp, encoder is custom.
